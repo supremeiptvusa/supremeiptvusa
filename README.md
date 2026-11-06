@@ -1,16 +1,18 @@
-## Hi there 👋
+# Supreme IPTV
 
-<!--
-**supremeiptvusa/supremeiptvusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IPTV streaming service in the USA — 20,000+ live channels in HD / 4K. Indian IPTV in USA.
 
-Here are some ideas to get you started:
+## About Supreme IPTV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Supreme IPTV is an IPTV streaming service in the USA offering 20,000+ live channels in HD and 4K, including Indian IPTV channels in the USA, along with movies and TV shows for uninterrupted streaming at home.
+
+## What we offer
+
+- 20,000+ live channels in HD / 4K
+- Indian IPTV channels in the USA
+- Movies and TV shows on demand
+- Reliable, uninterrupted streaming
+
+## Website
+
+Visit us at https://www.supremeiptvservice.com/
